@@ -1,0 +1,17 @@
+{
+  "name": "restaurant_page",
+  "version": "1.0.0",
+  "description": "A restaurant page with webpack html css and js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thomas Casco",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^6.3.0",
+    "style-loader": "^3.3.0",
+    "webpack": "^5.57.1",
+    "webpack-cli": "^4.8.0"
+  }
+}

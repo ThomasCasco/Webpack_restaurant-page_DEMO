@@ -1,0 +1,25 @@
+*{
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: beige;
+}
+
+header{
+    display: flex;
+    background-color: aqua;
+}
+
+h1{
+    color: black;
+}
+
+a{
+    color: black;
+}
+
+nav{
+    padding-left: 20%;
+}
